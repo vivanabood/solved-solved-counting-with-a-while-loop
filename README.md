@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-counting-with-a-while-loop
+<br>
+Counting with a While Loop Type in the following code, and get it to compile. This assignment shows you how we can abuse a while loop to make something repeat an exact number of times.Assignments turned in without these things will receive no credit. 1.What does n++ do? Remove it and see what happens. (Then put it back.) 2.Change the code so that the loop repeats ten times instead of five. 3.See if you can change the code so that the message still prints ten times, but the numbers in front count by tens, like so:
